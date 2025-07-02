@@ -1,0 +1,13 @@
+{
+    "name": "FAI Toolkit",
+    "domain": "fai_toolkit",
+    "author": "Dutch Drone Racing",
+    "author_uri": "https://github.com/Dutch-Drone-Racing",
+    "description": "Adds attributes and tools for FAI race management.",
+    "info_uri": "https://github.com/Dutch-Drone-Racing/FAI-Toolkit/",
+    "license": "DutchDroneRacing",
+    "license_uri": "https://github.com/RotorHazard/RotorHazard/blob/main/LICENSE",
+    "version": "1.0.0",
+    "required_rhapi_version": "1.0",
+    "category": ["Utilities"]
+}
